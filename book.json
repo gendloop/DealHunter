@@ -1,5 +1,5 @@
 {
-    "title": "template-GitbookProject",
+    "title": "DealHunter",
     "author": "gendloop",
     "description": "DESC",
     "gitbook": ">=3.2.3",
@@ -59,7 +59,7 @@
     ],
     "pluginsConfig": {
         "sidebar-style": {
-            "title": "template-GitbookProject",
+            "title": "DealHunter",
             "author": "gendloop"
         },
         "anchor-navigation-ex": {
@@ -88,15 +88,15 @@
             "skipFirstH1": true
         },
         "github": {
-            "url": "https://github.com/gendloop/template-GitbookProject"
+            "url": "https://github.com/gendloop/DealHunter"
         },
         "github-buttons": {
-            "repo": "gendloop/template-GitbookProject",
+            "repo": "gendloop/DealHunter",
             "types": [],
             "size": "small"
         },
         "edit-link": {
-            "base": "https://github.com/gendloop/template-GitbookProject/edit/main",
+            "base": "https://github.com/gendloop/DealHunter/edit/main",
             "label": "Edit"
         },
         "disqus": {
@@ -116,15 +116,15 @@
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
         "donate": {
-            "wechat": "/template-GitbookProject/assets/images/wechat.png",
-            "alipay": "/template-GitbookProject/assets/images/alipay.png",
+            "wechat": "/DealHunter/assets/images/wechat.png",
+            "alipay": "/DealHunter/assets/images/alipay.png",
             "title": "鼓励一下",
             "button": "赞赏",
             "alipayText": "支付宝打赏",
             "wechatText": "微信打赏"
         },
         "sitemap-general": {
-            "prefix": "https://gendloop.github.io/template-GitbookProject/"
+            "prefix": "https://gendloop.github.io/DealHunter/"
         },
         "favicon": {
             "shortcut": "assets/images/favicon.ico",
@@ -144,14 +144,14 @@
             "style": "flat"
         },
         "rss": {
-            "title": "template-GitbookProject",
+            "title": "DealHunter",
             "description": "DESC",
             "author": "gendloop",
-            "feed_url": "https://gendloop.github.io/template-GitbookProject/rss",
-            "site_url": "https://gendloop.github.io/template-GitbookProject",
+            "feed_url": "https://gendloop.github.io/DealHunter/rss",
+            "site_url": "https://gendloop.github.io/DealHunter",
             "managingEditor": "gendloop@163.com",
             "webMaster": "gendloop@163.com",
-            "categories": ["gitbook", "template-GitbookProject"]
+            "categories": ["gitbook", "DealHunter"]
         },
         "chart": {
             "type": "c3"
