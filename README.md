@@ -1,3 +1,3 @@
-# DealHunter
+# 薅羊毛
 
-Proj Intro.
+汇总整理性价比最高的优惠等.
