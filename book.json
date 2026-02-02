@@ -1,5 +1,5 @@
 {
-    "title": "DealHunter",
+    "title": "Deal Hunter",
     "author": "gendloop",
     "description": "薅羊毛",
     "gitbook": ">=3.2.3",
@@ -59,7 +59,7 @@
     ],
     "pluginsConfig": {
         "sidebar-style": {
-            "title": "DealHunter",
+            "title": "Deal Hunter",
             "author": "gendloop"
         },
         "anchor-navigation-ex": {
