@@ -1,3 +1,1 @@
-# 薅羊毛
-
-汇总整理性价比最高的优惠等.
+[![profile](assets/images/profile.png)](https://gendloop.github.io/DealHunter)
