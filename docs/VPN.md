@@ -10,11 +10,11 @@
 
 2. 输入`邮箱`, `密码`即可完成注册(国内推荐@qq.com和@163.com)
 
-    <img src="res/image-20260201225447938.png" alt="image-20260201225447938" style="zoom: 33%;" />
+    <img src="res/VPN/image-20260201225447938.png" alt="image-20260201225447938" style="zoom: 33%;" />
 
 3. 进入后可自行查看如何使用及购买(推荐使用[ClashForWindows](https://github.com/gendloop/ClashForWindows))
 
-    <img src="res/image-20260201230244761.png" alt="image-20260201230244761" style="zoom: 50%;" />
+    <img src="res/VPN/image-20260201230244761.png" alt="image-20260201230244761" style="zoom: 50%;" />
 
 ## 推广
 
