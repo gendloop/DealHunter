@@ -10,7 +10,7 @@
 | :-------- | :--- | :--- | :--- |
 | [KTM Cloud](https://ktm001.cc/#/register?code=Hyvh3pxF) | 1024G/7元/月 | 一般 | 适合网速要求不高; 开发; 办公; |
 | [拓朴门](https://topman8848.com/auth/register?code=4U7a) | 500G/15元/月 | 还可以 | 适合网速要求不高; 开发; 办公 |
-| [Skygo](https://skygo1403.top/?page=register&invite=pXxcodkz) | 300G/36元/月 | 好 | 适合网速要求较高; 看视频 |
+| [Skygo](https://skygo1403.top/?page=register&invite=pXxcodkz) | 300G/36元/月 | 一般 | 适合网速要求不高; 开发; 办公 |
 
 ## 步骤
 
